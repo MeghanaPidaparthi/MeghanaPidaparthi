@@ -9,6 +9,6 @@ Stay tuned for my latest projects and contributions!
 ## 📬 Let's Connect
 Let's talk about AI, development, and everything in between!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/meghana-pidaparthi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MeghanaPidaparthi)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:pidaparthimeghana@gmail.com)
