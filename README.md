@@ -8,8 +8,7 @@
 
 ## 🔧 Tech Stack  
 - **Languages:** Python, Java  
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **AI/ML:** Scikit-learn, TensorFlow  
+- **Frontend:** React, HTML, CSS, JavaScript, Next, Tailwind CSS  
 - **Cloud:** Microsoft Azure  
 - **Design:** Figma (UI/UX, wireframing, prototyping)  
 
